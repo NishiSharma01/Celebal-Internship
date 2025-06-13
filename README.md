@@ -1,4 +1,5 @@
-WEEK ONE CONTAINING TASKS AS FOLLOWS:
+ WEEK ONE CONTAINING TASKS AS FOLLOWS:
+# Week One Tasks
 py-if-else task: Uses conditional statements (if-elif-else) to make decisions based on input values:-
 python-arithmetic-operators: Involves performing basic mathematical operations like addition, subtraction, multiplication, and division.
 compress-the-string: Compresses a string by counting consecutive characters, often using itertools.groupby().
