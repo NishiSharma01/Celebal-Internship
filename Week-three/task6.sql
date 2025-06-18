@@ -1,0 +1,1 @@
+SELECT Unique CITY from STATION WHERE mod(ID,2)=0;
